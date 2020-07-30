@@ -7,6 +7,11 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="click1"
-        android:text="调用系统的拍照" />
+        android:onClick="takePhoto"
+        android:text="拍照" />
+
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </LinearLayout>
