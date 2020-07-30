@@ -21,4 +21,10 @@
         android:layout_height="wrap_content"
         android:onClick="click2"
         android:text="接入图像" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click3"
+        android:text="接入图像2" />
 </LinearLayout>
