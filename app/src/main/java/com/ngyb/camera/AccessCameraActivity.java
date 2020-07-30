@@ -21,7 +21,7 @@ import java.lang.reflect.Method;
 
 /**
  * 作者：南宫燚滨
- * 描述：接入摄像头的图像
+ * 描述：接入摄像头的图像 用的方法有些过时
  * 邮箱：nangongyibin@gmail.com
  * 日期：2020/7/30 15:00
  */

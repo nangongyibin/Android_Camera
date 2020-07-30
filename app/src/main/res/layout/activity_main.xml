@@ -5,6 +5,12 @@
     android:orientation="vertical">
 
     <Button
+        android:onClick="click0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="获取摄像头信息" />
+
+    <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="click1"

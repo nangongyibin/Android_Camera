@@ -33,4 +33,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, AccessCameraActivity.class);
         startActivity(intent);
     }
+
+    public void click0(View view) {
+        Intent intent = new Intent(this, GetCameraInfoActivity.class);
+        startActivity(intent);
+    }
 }
