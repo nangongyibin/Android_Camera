@@ -25,7 +25,7 @@ import java.util.Date;
 
 /**
  * 作者：南宫燚滨
- * 描述：
+ * 描述：拉起系统的相机
  * 邮箱：nangongyibin@gmail.com
  * 日期：2020/7/30 14:18
  */

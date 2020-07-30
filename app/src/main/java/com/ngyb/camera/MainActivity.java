@@ -28,4 +28,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, SystemCameraActivity.class);
         startActivity(intent);
     }
+
+    public void click2(View view) {
+        Intent intent = new Intent(this, AccessCameraActivity.class);
+        startActivity(intent);
+    }
 }

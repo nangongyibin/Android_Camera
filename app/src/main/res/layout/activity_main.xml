@@ -9,4 +9,10 @@
         android:layout_height="wrap_content"
         android:onClick="click1"
         android:text="调用系统的拍照" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click2"
+        android:text="接入图像" />
 </LinearLayout>

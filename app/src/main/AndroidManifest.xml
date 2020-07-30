@@ -26,6 +26,10 @@
         <activity
             android:name=".SystemCameraActivity"
             android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".AccessCameraActivity"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
